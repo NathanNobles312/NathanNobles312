@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NathanNobles312
+- 👀 I’m interested in power systems and power transmission as a career path.
+- 🌱 I’m currently learning python and developing electrical engineering skills as I pursue a B.S. in Electrical and Electronics Engineering at University of Georgia.
+- 📫 You can reach me at nan38468@uga.edu
